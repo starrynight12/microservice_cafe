@@ -23,5 +23,6 @@ Recieving data:
 
 UML sequence diagram:
 - 
+![image](https://github.com/starrynight12/microservice_cafe/assets/89996383/d4c14812-be5e-4be3-a748-db549f52123b)
 
 
